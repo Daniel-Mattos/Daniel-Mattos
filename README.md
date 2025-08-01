@@ -90,7 +90,7 @@ Me chamo Daniel Mattos, tenho 20 anos e sou natural do São Paulo. Concluí o en
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Mattos&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
